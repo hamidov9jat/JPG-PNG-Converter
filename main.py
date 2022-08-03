@@ -20,7 +20,3 @@ import re
 #     if image_name is not None:
 #         print(image_name.group(1))
     # print(full_image_name.name)
-
-
-
-print(list(image_names('jpg', './img_src')))
